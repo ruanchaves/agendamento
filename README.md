@@ -1,5 +1,5 @@
 # Aplicação Empresarial de Agendamento de Tarefas
-Aplicação de agendamento de tarefas empresarial na disciplina de Projeto de Software.
+Aplicação empresarial de agendamento de tarefas na disciplina de Projeto de Software.
 
 # Primeira etapa : Desenvolvimento de REST API , testes unitários e documentação
 
