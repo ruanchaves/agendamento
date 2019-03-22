@@ -25,6 +25,6 @@ Será feito um serviço de *autocompletion* para cada campo das tarefas [usando 
 
 Será criado um front-end em **React** que irá se comunicar com os endpoints da REST API e irá produzir sugestões de autocomplete em tempo real através de requests para o Redis que está no **Amazon ElastiCache**. O front-end será hospedado no **Amazon S3** e terá o acesso viabilizado através do **Amazon CloudFront**, **Amazon Route 53** e **AWS Certificate Manager**.   
 
-# Quarta etapa: Fine-tuning   
+# Quarta etapa: Fine-tuning e adaptação do produto ao nicho de mercado  
 
 Nessa etapa já estará pronto um MVP escalável. Devemos então agregar valor ao produto nessa etapa, incorporando novos requisitos à aplicação de acordo com as necessidades específicas do cliente e/ou público-alvo.
