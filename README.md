@@ -27,4 +27,4 @@ Será criado um front-end em **React** que irá se comunicar com os endpoints da
 
 # Quarta etapa: Fine-tuning   
 
-Nessa etapa já estará pronto um MVP escalável. Devemos então agregar valor ao produto nessa etapa, incorporando requisitos à aplicação de acordo com as necessidades específicas da empresa.
+Nessa etapa já estará pronto um MVP escalável. Devemos então agregar valor ao produto nessa etapa, incorporando novos requisitos à aplicação de acordo com as necessidades específicas do cliente e/ou público-alvo.
